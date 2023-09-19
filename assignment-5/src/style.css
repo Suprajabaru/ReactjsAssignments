@@ -1,0 +1,13 @@
+.style {
+    background-color: lightgreen;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  }
+  .style-title {
+    color: green;
+  }
+  .style-content {
+    color: darkgreen;
+  }
