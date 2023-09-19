@@ -6,7 +6,7 @@ function SimpleComponent() {
     <div>
       <h1>Simple Component with Material-UI</h1>
       <Button variant="contained" color="primary">
-        Material-UI Button
+        Material-UI button
       </Button>
     </div>
   );

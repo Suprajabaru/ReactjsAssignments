@@ -1,13 +1,13 @@
 .style {
-    background-color: lightgreen;
+    background-color: rgb(238, 144, 203);
     padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
   }
   .style-title {
-    color: green;
+    color: pink;
   }
   .style-content {
-    color: darkgreen;
+    color: beige;
   }
